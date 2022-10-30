@@ -1,5 +1,7 @@
 # color-nostalgia
 
+A neutral yet colorful theme that brings about an odd sense of nostalgia.
+
 ## Preview
 
 ![Preview Bars](res/preview_bars.jpg)
