@@ -81,6 +81,11 @@ set background=light
 hi signColumn ctermbg=NONE
 ```
 
+## Tips
+
+Looks really great with [redshift](https://github.com/jonls/redshift)!  
+Example: [redshift.conf](https://github.com/mitchweaver/dots/blob/master/.config/redshift.conf)
+
 ## Like the theme?
 
 Let me know!
