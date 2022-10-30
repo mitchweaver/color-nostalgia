@@ -4,7 +4,7 @@
 
 ![Preview Bars](res/preview_bars.jpg)
 
-![Preview Text](res/preview_test.jpg)
+![Preview Text](res/preview_text.jpg)
 
 ## Installation
 
