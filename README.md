@@ -62,6 +62,16 @@ Note I have a many patches in my build, so the headers are built
 with as much of the color capabilities turned on.  
 May need to edit to fit your builds :)
 
+### Kitty
+
+Place `kitty/color-nostalgia.conf` inside `~/.config/kitty`
+
+Then at the top of your `~/.config/kitty.conf`:
+
+```
+include ./color-nostalgia.conf
+```
+
 ### Vim
 
 This could potentially be improved but this is what I use for now:
