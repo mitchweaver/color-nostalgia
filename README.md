@@ -78,8 +78,10 @@ Let me know!
 If you themed a piece of software you use and want to contribute it make
 a pull request or message me. 😁
 
+----
+
 ### Credits
 
-* Inspiration: Base colors from Joshua Stein's
+* **Inspiration**: Base colors from Joshua Stein's
     [sdorfehs](https://github.com/jcs/sdorfehs) desktop
-* Font used: [Shure Tech Mono](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/ShareTechMono/complete/Shure%20Tech%20Mono%20Nerd%20Font%20Complete%20Mono.ttf)
+* **Font used**: [Shure Tech Mono](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/ShareTechMono/complete/Shure%20Tech%20Mono%20Nerd%20Font%20Complete%20Mono.ttf)
